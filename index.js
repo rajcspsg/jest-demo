@@ -1,5 +1,5 @@
-let height = 12;
-let width = 16;
+const height = 12;
+const width = 16;
 
 class Rectangle {
   constructor(height, width) {
